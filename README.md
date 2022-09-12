@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web designing
 - 🌱 I’m currently learning ... react.js
 - 💞️ I’m looking to collaborate on ... progremmers
-- 📫 How to reach me ...obi76309@gmail.com
+- 📫 How to reach me ...obi75309@gmail.com
 
 <!---
 rossay36/rossay36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
